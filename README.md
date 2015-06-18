@@ -6,7 +6,7 @@ AndroidでJSONを取得し、Listviewに表示するテストプログラムで�
 
 2.動作条件
 
-javaで書かれています。
+javaで書かれています。Volley外部プロジェクトのjarファイルをコピペしてます。
 
 Eclipse Luna Service Release 2 (4.4.2)
 
